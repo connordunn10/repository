@@ -52,7 +52,7 @@ Built In. “San Francisco Startups & Tech Companies.” Built In, 26 Oct. 2020,
 “Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, www.chime.com/job-openings/?gh_jid=4911361002. 
 
 
-Marous, Jim. “Five Innovation Trends That Will Define Banking in 2019.” The Financial Brand, 30 Sept. 2019,
+Marous, Jim. “Five Innovation Trends That Will Define Banking in 2019.” The Financial Brand, 30 Sept. 2019, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thefinancialbrand.com/77869/innovation-trends-banking-ai-api-personalization-payments/. 
 
 
