@@ -22,6 +22,8 @@ Chime has many great features, but they could improve by implementing a feature 
 
 
 Work Cited
+
+
 Built In. “San Francisco Startups & Tech Companies.” Built In, 26 Oct. 2020, www.builtinsf.com/company/chime. 
 “Credit Builder: Chime.” Banking Made Awesome, 6 Oct. 2020, www.chime.com/credit-builder/. 
 “Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, www.chime.com/job-openings/. 
