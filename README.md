@@ -7,7 +7,7 @@ FinTech BootCamp
 10/31/2020
 
 
-Chime: Online banking for the Future
+Chime: Online Banking for the Future
 ====================================
 
 
