@@ -37,9 +37,7 @@ Chime: Online banking for the Future
 Work Cited
 
 
-Built In. “San Francisco Startups & Tech Companies.” Built In, 26 Oct. 2020, 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.builtinsf.com/company/chime.
+Built In. “San Francisco Startups & Tech Companies.” Built In, 26 Oct. 2020, www.builtinsf.com/company/chime.
 
 
 “Credit Builder: Chime.” Banking Made Awesome, 6 Oct. 2020, www.chime.com/credit-builder/. 
