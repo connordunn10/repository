@@ -59,7 +59,8 @@ Marous, Jim. “Five Innovation Trends That Will Define Banking in 2019.” The 
 Rowan, Lisa. “Chime Review-The Pros And Cons.” Forbes, Forbes Magazine, 21 Oct. 2020, www.forbes.com/advisor/banking/chime-review/. 
 
 
-Shevlin, Ron. “The Online Bank Insurgency Of 2020.” Forbes, Forbes Magazine, 20 July 2020, www.forbes.com/sites/ronshevlin/2020/07/20/the-online-bank-insurgency-of-2020/?sh=1f449bb6371f. 
+Shevlin, Ron. “The Online Bank Insurgency Of 2020.” Forbes, Forbes Magazine, 20 July 2020, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.forbes.com/sites/ronshevlin/2020/07/20/the-online-bank-insurgency-of-2020/?sh=1f449bb6371f. 
 
 
 Son, Hugh. “This Branchless Bank Quadrupled Its Customer Base to 4 Million in a Single Year.” CNBC, CNBC, 17 June 2019, www.cnbc.com/2019/06/12/chime-has-quadrupled-its-customer-base-to-4-million-in-a-single-year.html. 
