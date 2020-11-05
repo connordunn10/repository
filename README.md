@@ -38,31 +38,27 @@ Work Cited
 
 
 Built In. “San Francisco Startups & Tech Companies.” Built In, 26 Oct. 2020, 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.builtinsf.com/company/chime.
 
 
-“Credit Builder: Chime.” Banking Made Awesome, 6 Oct. 2020, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.chime.com/credit-builder/. 
+“Credit Builder: Chime.” Banking Made Awesome, 6 Oct. 2020, www.chime.com/credit-builder/. 
 
 
-“Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.chime.com/job-openings/. 
+“Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, www.chime.com/job-openings/. 
 
 
-“Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.chime.com/job-openings/?gh_jid=4395786002.
+“Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, www.chime.com/job-openings/?gh_jid=4395786002.
 
 
-“Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.chime.com/job-openings/?gh_jid=4911361002. 
+“Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, www.chime.com/job-openings/?gh_jid=4911361002. 
 
 
 Marous, Jim. “Five Innovation Trends That Will Define Banking in 2019.” The Financial Brand, 30 Sept. 2019, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.thefinancialbrand.com/77869/innovation-trends-banking-ai-api-personalization-payments/. 
 
 
-Rowan, Lisa. “Chime Review-The Pros And Cons.” Forbes, Forbes Magazine, 21 Oct. 2020, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.forbes.com/advisor/banking/chime-review/. 
+Rowan, Lisa. “Chime Review-The Pros And Cons.” Forbes, Forbes Magazine, 21 Oct. 2020, www.forbes.com/advisor/banking/chime-review/. 
 
 
 Shevlin, Ron. “The Online Bank Insurgency Of 2020.” Forbes, Forbes Magazine, 20 July 2020, 
@@ -77,5 +73,4 @@ Stavros Georgiadis, CFA. “Invest in Chime Stock to Cash In on Fintech's Growth
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.nvestorplace.com/2020/07/invest-in-chime-stock-to-cash-in-on-fintechs-growth/. 
 
 
-“We're Changing the Way People Feel About Banking - Chime Banking.” Banking Made Awesome, 8 Sept. 2020, 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.chime.com/about-us/. 
+“We're Changing the Way People Feel About Banking - Chime Banking.” Banking Made Awesome, 8 Sept. 2020, www.chime.com/about-us/. 
