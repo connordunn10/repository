@@ -26,14 +26,34 @@ According to Chime CEO Chris Britt, their target market is focused “on millenn
 Work Cited
 
 
-Built In. “San Francisco Startups & Tech Companies.” Built In, 26 Oct. 2020, www.builtinsf.com/company/chime. 
+Built In. “San Francisco Startups & Tech Companies.” Built In, 26 Oct. 2020, www.builtinsf.com/company/chime.
+
+
 “Credit Builder: Chime.” Banking Made Awesome, 6 Oct. 2020, www.chime.com/credit-builder/. 
+
+
 “Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, www.chime.com/job-openings/. 
+
+
 “Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, www.chime.com/job-openings/?gh_jid=4395786002.
+
+
 “Job Openings: Chime.” Banking Made Awesome, 22 Sept. 2020, www.chime.com/job-openings/?gh_jid=4911361002. 
+
+
 Marous, Jim. “Five Innovation Trends That Will Define Banking in 2019.” The Financial Brand, 30 Sept. 2019, thefinancialbrand.com/77869/innovation-trends-banking-ai-api-personalization-payments/. 
+
+
 Rowan, Lisa. “Chime Review-The Pros And Cons.” Forbes, Forbes Magazine, 21 Oct. 2020, www.forbes.com/advisor/banking/chime-review/. 
+
+
 Shevlin, Ron. “The Online Bank Insurgency Of 2020.” Forbes, Forbes Magazine, 20 July 2020, www.forbes.com/sites/ronshevlin/2020/07/20/the-online-bank-insurgency-of-2020/?sh=1f449bb6371f. 
+
+
 Son, Hugh. “This Branchless Bank Quadrupled Its Customer Base to 4 Million in a Single Year.” CNBC, CNBC, 17 June 2019, www.cnbc.com/2019/06/12/chime-has-quadrupled-its-customer-base-to-4-million-in-a-single-year.html. 
+
+
 Stavros Georgiadis, CFA. “Invest in Chime Stock to Cash In on Fintech's Growth.” InvestorPlace, 23 July 2020, investorplace.com/2020/07/invest-in-chime-stock-to-cash-in-on-fintechs-growth/. 
+
+
 “We're Changing the Way People Feel About Banking - Chime Banking.” Banking Made Awesome, 8 Sept. 2020, www.chime.com/about-us/. 
